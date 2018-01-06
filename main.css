@@ -5,9 +5,12 @@ body{
     background-attachment: fixed;
 	background-size: 100% 100%;
 }
-h1{
+p{
 color: white;
+font-family: courier;
 text-align: center;
+font-size: 250%;
+font-weight: bold;
 }
 
 	
