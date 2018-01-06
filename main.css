@@ -1,3 +1,7 @@
 body{
 	font-family: courier;
+	background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-size: cover;
 }	
